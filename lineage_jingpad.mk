@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Inherit from JingPad C1 device
-$(call inherit-product, device/jingling/JingPad C1/device.mk)
+$(call inherit-product, device/jingpad/c1/device.mk)
 
 PRODUCT_DEVICE := JingPad C1
 PRODUCT_NAME := lineage_JingPad C1
