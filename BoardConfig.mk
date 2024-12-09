@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/jingling/JingPad C1
+DEVICE_PATH := device/jingpad/c1
 
 # Architecture
 TARGET_ARCH := arm64
