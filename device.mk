@@ -60,4 +60,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/jingpad/c1/JingPad_C1-vendor.mk)
+$(call inherit-product, vendor/jingling/JingPad_C1/JingPad_C1-vendor.mk)
