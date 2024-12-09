@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_JingPad C1.mk
+    $(LOCAL_DIR)/lineage_jingpad.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_JingPad C1-user \
-    lineage_JingPad C1-userdebug \
-    lineage_JingPad C1-eng
+    lineage_jingpad-user \
+    lineage_jingpad-userdebug \
+    lineage_jingpad-eng
