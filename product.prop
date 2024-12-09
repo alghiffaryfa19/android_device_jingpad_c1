@@ -1,0 +1,3 @@
+persist.netmon.linger=10000
+persist.storage.type=2
+sys.internal.emulated=1
